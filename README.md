@@ -37,4 +37,10 @@ CS student at Cal State Fullerton
 <img src="https://github-readme-stats.vercel.app/api?username=tonyt243&show_icons=true&hide_border=true&theme=default&hide=stars&count_private=true" alt="Huy's GitHub stats" />
  
 <br>
- 
+
+ <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tonyt243/tonyt243/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tonyt243/tonyt243/output/github-contribution-grid-snake.svg" />
+  <img alt="contribution snake animation" src="https://raw.githubusercontent.com/tonyt243/tonyt243/output/github-contribution-grid-snake.svg" />
+</picture>
+<br>
