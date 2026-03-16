@@ -1,19 +1,19 @@
 # Hi, I'm Huy 
- 
-CS student at Cal State Fullerton 
- 
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=555555&width=435&lines=CS+Student+%40+Cal+State+Fullerton;Full-Stack+Developer;Android+Developer;Cybersecurity+Enthusiast;Always+learning+something+new)](https://git.io/typing-svg)
+
 <br>
- 
-## Projects that I'm currently working on
- 
+
+## What I'm building
+
 -  **ML Intrusion Detection System** — Random Forest + Isolation Forest hybrid for real-time network threat detection
 -  **Cloud Resource Cost Optimizer** — AWS cost analysis tool with FastAPI, DynamoDB, and Next.js
 -  **Kim Thao Trang Jewelry** — Full-stack e-commerce site with auth, admin dashboard, and Supabase
- 
+
 <br>
- 
-## Tech that I learned
- 
+
+## Techs that I learned
+
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -29,18 +29,21 @@ CS student at Cal State Fullerton
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat&logo=supabase&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
- 
-<br>
- 
-## GitHub stats
- 
-<img src="https://github-readme-stats.vercel.app/api?username=tonyt243&show_icons=true&hide_border=true&theme=default&hide=stars&count_private=true" alt="Huy's GitHub stats" />
- 
+
 <br>
 
- <picture>
+## GitHub stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=tonyt243&show_icons=true&hide_border=true&theme=default&hide=stars&count_private=true" alt="Huy's GitHub stats" />
+
+<br>
+
+## Contribution snake
+
+<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tonyt243/tonyt243/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tonyt243/tonyt243/output/github-contribution-grid-snake.svg" />
   <img alt="contribution snake animation" src="https://raw.githubusercontent.com/tonyt243/tonyt243/output/github-contribution-grid-snake.svg" />
 </picture>
+
 <br>
