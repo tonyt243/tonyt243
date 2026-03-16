@@ -1,7 +1,6 @@
 # Hello fellow coder! I am Huy Ta!
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=555555&width=435&lines=CS+Student+%40+Cal+State+Fullerton;Full-Stack+Developer;Cybersecurity;)](https://git.io/typing-svg)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-USERNAME-HERE)
 
 <br>
 
@@ -44,3 +43,6 @@
 </picture>
 
 <br>
+
+## Connect with me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/huy-ta-601996272/)
