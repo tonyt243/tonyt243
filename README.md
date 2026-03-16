@@ -1,6 +1,6 @@
 # Hi, I'm Huy 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=555555&width=435&lines=CS+Student+%40+Cal+State+Fullerton;Full-Stack+Developer;Android+Developer;Cybersecurity+Enthusiast;Always+learning+something+new)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=555555&width=435&lines=CS+Student+%40+Cal+State+Fullerton;Full-Stack+Developer;Cybersecurity;)](https://git.io/typing-svg)
 
 <br>
 
