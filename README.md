@@ -1,11 +1,9 @@
-# Hello fellow coder! I am Huy Ta!
-
+# Hello fellow coder! This is Huy Ta!
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=555555&width=435&lines=CS+Student+%40+Cal+State+Fullerton;Full-Stack+Developer;Cybersecurity;)](https://git.io/typing-svg)
 
 <br>
 
 ## What I'm building
-
 -  **ML Intrusion Detection System** — Random Forest + Isolation Forest hybrid for real-time network threat detection
 -  **Cloud Resource Cost Optimizer** — AWS cost analysis tool with FastAPI, DynamoDB, and Next.js
 -  **Kim Thao Trang Jewelry** — Full-stack e-commerce site with auth, admin dashboard, and Supabase
@@ -13,7 +11,6 @@
 <br>
 
 ## Techs that I learned
-
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
