@@ -1,6 +1,7 @@
-# Hi, I'm Huy 
+# Hello fellow coder! I am Huy Ta!
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=555555&width=435&lines=CS+Student+%40+Cal+State+Fullerton;Full-Stack+Developer;Cybersecurity;)](https://git.io/typing-svg)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-USERNAME-HERE)
 
 <br>
 
@@ -32,13 +33,9 @@
 
 <br>
 
-## GitHub stats
-
 <img src="https://github-readme-stats.vercel.app/api?username=tonyt243&show_icons=true&hide_border=true&theme=default&hide=stars&count_private=true" alt="Huy's GitHub stats" />
 
 <br>
-
-## Contribution snake
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tonyt243/tonyt243/output/github-contribution-grid-snake-dark.svg" />
