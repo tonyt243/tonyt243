@@ -28,7 +28,7 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
 <br>
-![Huy's GitHub stats](https://github-readme-stats.vercel.app/api?username=tonyt243&show_icons=true&theme=tokyonight)
+[![Huy's GitHub stats](https://github-readme-stats.vercel.app/api?username=huyta243)](https://github.com/anuraghazra/github-readme-stats)
 <br>
 
 <picture>
