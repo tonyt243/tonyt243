@@ -1,5 +1,5 @@
 # Hey, people of the world
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=555555&width=500&lines=CS+Student+%40+Cal+State+Fullerton;Full-Stack+Developer;AI+%26+Cybersecurity+Enthusiast;Building+things+that+matter)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=555555&width=500&lines=CS+Student+%40+Cal+State+Fullerton;Full-Stack+Developer;AI+%26+Cybersecurity+Enthusiast)](https://git.io/typing-svg)
 
 ---
 
@@ -39,14 +39,6 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=flat&logo=railway&logoColor=white)
 
----
-
-## GitHub Stats
-
-<p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=tonyt243&show_icons=true&theme=default&hide_border=true&title_color=333333&icon_color=555555&text_color=555555&bg_color=ffffff" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tonyt243&layout=compact&theme=default&hide_border=true&title_color=333333&text_color=555555&bg_color=ffffff" />
-</p>
 
 ---
 
