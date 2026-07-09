@@ -3,7 +3,7 @@
 
 ---
 
-## 🛠️ What I'm Building
+##  What I'm Building
 
 | Project | Description | Stack |
 |---------|-------------|-------|
