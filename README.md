@@ -7,10 +7,10 @@
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-|  **[AI SOC Analyst](https://github.com/tonyt243)** | Hand-written Claude tool-use agent loop with SSE streaming, real-time reasoning display, and token/cost tracking | Claude API · FastAPI · Next.js |
-|  **[Kim Thao Trang Jewelry](https://kimthaotrang.vercel.app)** | Full-stack e-commerce site with auth, admin dashboard, lightbox, FAQ chatbot, and CSP security headers | Next.js 15 · Supabase · Framer Motion |
-|  **[ML Intrusion Detection System](https://github.com/tonyt243)** | Random Forest + Isolation Forest hybrid for real-time network threat detection on NSL-KDD dataset | Python · scikit-learn · pandas |
-|  **[Cloud Cost Optimizer](https://github.com/tonyt243)** | AWS cost analysis tool with exponential smoothing forecasting and a live dashboard | FastAPI · AWS · DynamoDB · Next.js |
+|  AI SOC Analyst | Hand-written Claude tool-use agent loop with SSE streaming, real-time reasoning display, and token/cost tracking | Claude API · FastAPI · Next.js |
+|  Kim Thao Trang Jewelry | Full-stack e-commerce site with auth, admin dashboard, lightbox, FAQ chatbot, and CSP security headers | Next.js 15 · Supabase · Framer Motion |
+|  ML Intrusion Detection System | Random Forest + Isolation Forest hybrid for real-time network threat detection on NSL-KDD dataset | Python · scikit-learn · pandas |
+|  Cloud Cost Optimizer | AWS cost analysis tool with exponential smoothing forecasting and a live dashboard | FastAPI · AWS · DynamoDB · Next.js |
 
 ---
 
